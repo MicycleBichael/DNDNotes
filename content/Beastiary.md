@@ -1,0 +1,21 @@
+#argan #dnd
+- Any stats are estimated from experience.
+- Acid Bats ^24291c
+	- Locations
+		- Blackrock Storm
+		- Underdark
+	- Immune to acid
+	- Stronger in groups of 2 or more (more AC)
+	- HP: $\leq$ 14
+	- Solo: 3 $\leq$ AC $\leq$ ?
+	- In groups: 4 $<$ AC $\leq$ 14
+- Acid Pterodactyl ^08532f
+	- Size - Large
+	- Locations
+		- Blackrock Storm
+	- Immune to acid
+	- Acid damages those who hit it.
+	- Known Attacks
+		- Bite - 12 damage
+	- HP $\leq$ 25
+	- 12 $<$ AC $\leq$ ?

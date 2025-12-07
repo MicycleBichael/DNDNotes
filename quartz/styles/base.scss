@@ -635,3 +635,19 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+/* 1.  suppress the native bullet on any <li> that owns a <details> */
+li:has(> details) {
+  list-style: none;
+  padding-left: 0;          /* optional – align with normal text */
+}
+
+/* 2.  keep the arrow inside the summary */
+li > details > summary {
+  cursor: pointer;
+  user-select: none;
+  display: inline-flex;     /* keeps arrow + text on one line */
+  align-items: center;
+}
+li > details[open]  > summary::before { content: "▾ "; }
+li > details:not([open]) > summary::before { content: "▸ "; }

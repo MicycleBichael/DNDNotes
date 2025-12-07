@@ -1,0 +1,52 @@
+#dnd #argan 
+- Characters
+	- Acorn
+		- Forest Gnome Monk
+		- Punches people, illiterate
+		- 2'0", 23 years old
+		- From the Monastery of the Squirrels.
+	- Bob ^1d913a
+		- Owns Bob's Bargain Armor outlet.
+	- Feri the Bright
+		- Rock gnome
+		- Brothers with Feri the Dim.
+		- Sounds like Smiling Friends landlord.
+	- Feri the Dim
+		- Rock gnome
+		- Brothers with Feri the Bright.
+		- New York-ish accent.
+	- Frank ^d9636d
+		- History
+			- Had dog Rufus, died to pirates
+			- Family kidnapped by pirates, which we saved (Wife and son)
+			- We kind dragged him along the ground while unconscious
+			- We took his son...
+	- Fred Jr. ^07ac3a
+		- Age 6-16
+		- Frank's son.
+		- REALLY good at learning.
+		- Convinced by Almond to become a monk and adventure.
+	- Grug ^grug
+		- Food man.
+		- Speak like this.
+		- JACKED high elf.
+		- Friend of Jerb.
+	- Jeffery ^8c23f9
+		- Almond's friend, a monk
+	- Jerb (Deceased) ^ed458b
+		- Gnome
+		- Agent of the Gnomish empire.
+		- Formerly stationed in the labyrinth of Castle Doom.
+		- Slept with a stuffed elf.
+		- Decapitated by Venith.
+	- Robert ^18d701
+		- Human.
+		- Deckhand on Blackrock.
+	- Verrin Marrow (Deceased) ^39b4f6
+		- Has a fox with green eyes.
+		- Former congressman.
+		- Hired the pirates we killed at the end of Session 2 (Letter in Session 3)
+- Historical Figures
+	- Valeric Tharn
+		- Gnomish Sorcerer
+		- Cursed the island of Blackrock with powerful magic upon being executed upon its spire.

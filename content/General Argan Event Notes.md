@@ -1,0 +1,444 @@
+#dnd #argan 
+- Session 1 - Mercenaries of the State
+	- Fought snake on fishing boat
+	- Mysterious figure offering great reward on boat
+	- 8am next day, we arrive at office to answer summons
+		- We meet Judge Marsh
+		- A mission for the state? There has been issues with pirates lately, so we are being offered a deal to infiltrate the pirate organization in order to find their headquarters and leader. We'll get our yentence halved and an estate upon the mainland within 30 miles of the capital upon success.
+			- The contract:
+				- Thea convinces the good judge to free us unconditionally upon success.
+				- Venith convinces him to add on 100 gold.
+	- Next morning
+		- We're on the boat
+		- BIG AND PURPLE OCTOPUS WITH PINK SPOTS BATTLE
+- Session 2 - Stinging Waters
+	- Journey to the island
+		- The boat starts sinking, leans towards a side that is bioluminescent for some reason. The water seems less "watery" than normal.
+		- We see a man with an injured arm a bit of a ways away, he's screaming "HELP THE WATER IS EVIL THEY TOOK MY FAMILY"
+			- "How dying are you" - Azulo, upon hearing the man is not a pirate
+			- Azulo and Venith tie a rope to Acorn and throw her at the guy to grab him.
+			- They killed his dog Rufus!!!!
+		- The stuff in the water is a bunch of acid jellyfish, which is what has been eating at our boat. The boat is leaning further...
+		- Story from a captain, recounted by Gizzard
+			- Crew died, shooting the jellyfish with cannons worked
+			- They didn't make it out
+		- Everyone tries to get to the island before the boat sinks!
+			- Acorn should be dead from acid wounds.
+			- Stranger man is barely alive.
+			- Sila uses shape water to freeze, Kuro punched the water.
+	- On the Island
+		- We talk to the strange man
+			- He gets all sad about his dog Rufus, killed by pirates
+			- Trying to save family from pirates
+			- Everyone wants to kill him, but he knows where the pirates are.
+			- We hog tie him and Venith starts dragging him along the ground.
+		- Thea wants to cut his arm off???????? 
+		- Azulo knocks him out.
+		- We saunter up to a shack on the island in the center of a small abandoned town.
+			- There is a rascal tossing rocks in front of the shack.
+		- Acorn sneaks behind the rascal into the shack.
+			- Lady and two kids are tied to the wall, looking worse for the wear, a couple of others are milling around.
+			- The others (pirates, presumably) are arguing over whether new people have arrived or not.
+			- The room is dark due to roots and vines covering the windows, and the ground is gnarly.
+		- Arrow whizzes by Gizzard's ear.
+		- We kill the rascal.
+		- Thea tries to run into the building, and is immediately shot and stabbed, immediately falling unconscious.
+		- The battle ensues!! 
+			- Acorn is felled in battle! Chris comes back as Acorn's long lost brother Almond, who was a hostage in the room.
+			- Eris plays dead.
+		- We win! Azulo forces the captain to spill where his boss is, in a boat nearby. Almond rips off the captain's leg, killing him.
+- Session 3 - Monastery Pit Stop
+	- The family we saved is the family of [[Characters#^d9636d|Frank]], the man we "rescued" from the jellyfish.
+	- They're a little upset that we beat him within an inch of his life and dragged his unconscious restrained body across the ground.
+		- We manage to convince them we had a good-ish reason?
+	- Almond convinces the child that he should come with us on the adventure.
+		- Their parents think that we let them live in exchange for their child.
+	- Before setting sail
+		- We make our way to the boat via the ~~car~~ boat keys' sonar.
+		- We find the captain's cabin, containing a chest with a soft glow. There's:
+			- 2,000 gold - Divvied up 8 ways (Kiana so sad)
+			- a map with points marked
+			- Letter
+				- To captain McCam and his loyal crew, the gold is to be delivered straight to Deadrock. No detours. Chart your course north by northeast from the Isle of Ember three days until the water runs shallow and black. Once we have confirmed your arrival, we'll send out a ship to confirm. Don't attempt western pass again, it has claimed enough ships already. Deliver the spoils, and have your share, or the ocean will have you before we do.
+				- Signed Verin Marrow, First mate of the Drowned Serpent
+			- 10 swords - Venith gets 2, Azulo gets 2, Almond gets 0, everyone else gets one (Including Kiana!)
+			- 3 red cloaks - Venith, Kuro, Eris
+			- 5 dice - Sapphire
+			- Deck of cards - Venith
+			- Magic orb - Gizzard
+				- Mysterious, humming and floating
+			- Oil of slipperiness - Eris
+			- Magic Rod - Almond
+				- Metal, grey, horses on each side
+				- Immovable rod
+		- There is a parrot, Sapphire tries to befriend it but Azulo undermines her, stealing the bird.
+	- After setting sail
+		- Venith wakes up with tattoos that appear burned into upper arm.
+			- He says that they are his tenets.
+		- A mysterious unnatural storm is coming towards us.
+		- Clouds of bats within the storm with beady green eyes
+			- They swarm around Sila.
+		- Battle begins!
+		- We survived the storm! The sun's out again.
+		- Small gnomish airship comes down
+			- Almond speaks in gnomish, specifying that we're going to drop off his dead brother and our new apprentice child there
+		- Eris and Azulo are temporarily detained at the international Gnomish visa office.
+		- We arrive at the monastery.
+	- At the monastery
+		- Serene, there's sheep herding, and a beautiful mist.
+		- Almond meets [[Characters#^8c23f9|Jeffery]]!!!
+		- We go through tunnels (we leave Venith and Gizzard behind, they're too tall for gnome tunnels)
+			- We put Acorn upon a table within a resting state chamber in order to preserve him. Herbs and spices are laid upon his corpse. He is slid into a morgue like door in the wall.
+		- Venith and Gizzard discover something on the cards while gambling
+			- Gizzard starts glowing green. The cards apparently do bad things to the loser of the cards...
+			- The dice also do bad stuff to the loser. (Something about hair turning blond and lengthening)
+- Session 4 - Deadrock Walking
+	- Before leaving the Gnomish Lands
+		- A Gnomish airship (GnICE) comes down, delivering Eris and Azulo.
+		- Kuro Yuki and Gizzard are still being detained for being too tall.
+		- Venith is kneeling and pretending to be shorter.
+	- Straight ahead to Deadrock!
+		- We start heading off in a random direction, fully confident (the people who know how to sail are in GnICE custody).
+		- A storm, twice as large as the last one, comes hurtling towards us.
+		- No bats come out, and we continue for three days and four nights in the deadly storm.
+		- Looming out of the deep, we see the accursed island of Deadrock/Blackrock.
+			- We're heading straight for the rocks!
+			- Sila tries and fails to redirect the boat with magic.
+			- Azulo tries and fails to redirect the rudder manually.
+			- Sapphire tries to convince a nearby shark to redirect the boat.
+				- It wants to eat us.
+			- We crash into the rocks, and get off onto a nearby rock.
+	- Arrival on Deadrock
+		- A tattered and battered man appears on the shore.
+		- We attempt to intimidate the man, for some reason.
+		- The man has a pet fox with green eyes.
+		- Almond pets the fox, which is quite fluffy.
+		- The man speaks: 
+			- "Gentlemen, this island is beset with troubles, and I need your assistance. You see, the dragon has betrayed us. Ladies, there is a great problem amongst us, and the problem begins with the dragon. I was but a humble, humble congressman. My ship crashed, and they offered me refuge, and with my numerous funds wrested from the taxpayers, I obtained the service of a few pirates. I hired these lovely gentlemen to find me some prisoners of the state to get me off this island. They were hired 3 weeks ago, and not a single one returned. They betrayed me, stole my prestige, stole the shirt off my back (Kuro slips away). Gentlemen, you see, the pirates work for the dragon; the dragon which is tied to the long history of this island. I thought they would respect the gold, but they have no loyalty. We must seek revenge. We must work to destroy the pirates and the dragon. Surely, *surely*, my good friends, you will be able to aid me in this task."
+		- Almond bites the man's ankles, doing 8 damage and taking out half of the man's ankle.
+		- He tries to convince us with tales of "riches untold", upon which insight tells us he is most definitely not in his right mind.
+		- "The dragon is restrained underneath the execution spire. We are currently in the forest of death, and the pirates, naturally, are beyond the wall."
+		- Venith hits his knee from behind, asking about the color of the dragon.
+		- "Gentlemen, ladies, be reasonable! I am an honest man!"
+		- Azulo draws his bow and points it, point-blank, at his neck, causing him to yelp "The drag — the drag — it's a gray dragon!! It's a gray dragon!!!"
+		- He's lying through his fucking teeth; he doesn't know the color. Azulo releases the arrow.
+		- We loot his body, deciding Venith should pretend to be him by wearing his medallion. He happened to be [[Characters#^39b4f6|Verrin Marrow]], first mate of The Drowned Serpent.
+	- Forest of Death
+		- There's an oddly large quantity of fungus in this forest.
+		- We spot a strange silver statue in the middle of a clearing.
+		- There is a creature by the trees, large, with greenish fur, with feathers sprouting out of its head.
+		- It almost looks like an owlbear, but it's nothing like anyone in the party has seen before.
+		- WE DO BATTLE
+			- Sapphire deals a fatal blow to the owlbear, which bleeds out violently.
+			- DOUBLE NAT 1 NATURE/SURVIVAL - It looks like it was a normal bear!
+		- Eris takes the feathers from the ~~owlbear~~ normal bear in order to later make a cloak.
+		- The silver statue is an ancient relic from way back before the island was in the  state it's in today. There are ancient gnomish markings, telling the story of a small gnomish village that was on this island, until something dreadful happened (scratched out). Afterwards, the only one surviving was the engraver, who died shortly after writing this story.
+		- We see a sizeable wall, about 22.5 feet tall.
+		- Walking along, we see a heavy set shiny black iron gate. On the other side, there are three or four of what appear to be pirates.
+		- Ted and Zach, the pirates, have a back and forth about talking to us.
+		- Through Prestidigitation, Venith has a fake goatee and Sila has an eyepatch.
+		- Venith, pretending to be [[Characters#^39b4f6|Verrin Marrow]] says, "We're looking for resources, as our ship crashed on the outside of this island."
+		- Azulo convinces them to let us in by Messaging Zach that he can offer 10 gold if we're let through. (Nat 20)
+	- To the Market!
+		- We see the city, with a road stretching in front of us and a big official looking building.
+		- We pass a beggar, which Azulo gives a gold piece to tell us what we already know — we can get things at the market.
+		- At the crossroads, straight ahead is the docks, and to the right is the market. Left is from whence we came. We head to the market.
+		- A man calls out, "Gentlemen, gentlemen! It appears you are lost. The town of Blackrock can be unforgiving." 
+			- Almond responds, "Do you have a fire starter?"
+			- The man offers a flask on a keychain, which contains 'liquid fire', which explodes upon the seal being broken.
+			- Violence is strictly prohibited, punished with violence, save for bar fights.
+				- Enforced by Gronk, a half-orc who could pass for a troll, according to the man.
+			- Azulo barters the vial of owlbear acid and 45 gold for a large flask of "Acid for arrows".
+		- Almond goes up to a stand with oddly shaped metal instruments, asking once more for a fire starter.
+			- "No governments, no rulers, no gods, your stand will still exist in a world where I have BURNED GOD," espouses Almond.
+			- "Copper and silver and gold are instruments of society. I fear—no, there is nothing to fear. If you offer your soul to the One Who Floats, you may have a fire starter," responds the figure at the stand. 
+			- Almond climbs up the figure, causing them to brandish what appears to be a floating orb of some sort. Upon climbing down, Almond takes a silver turtle with intricate markings and a spinning circle from their pocket.
+			- Azulo deduces that the orb is an unholy symbol of the warlock's patron. 
+		- We come up to an artificer with a coughing mechanical dragon on his shoulder.
+			- He pulls out a backpack the size of Almond, saying, "This here's what I call a flamethrower. This one may be a little bit too large though, hmm." He starts rummaging through a box and pulls out a slingshot. \*everyone sighs\* "Now I know what you're thinking!" He pulls out a piece of gravel, allowing the group to inspect it (Almond licks it). He puts it in the slingshot, pulling it back, and upon firing, the piece of gravel bursts into flame. "How much does it cost?" a party member asks. He goes into a monologue about how difficult it was for him to get it...
+			- While the artificer is monologuing, Eris steals a small cube of some sort.
+			- "...while it has great personal value, I can sell it to you for 150 gold," the man finishes. Almond exclaims, "DEAL!" and hands over the money, some of which was Thea's gold, as she is currently detained by GnICE.
+		- We go up to a stand selling armor. (Bob's Bargain Armor Outlet) ^bobbargainarmor
+			- "What kind of armor are you looking for?" 
+			- "Splint or plate," responds Venith.
+			- "We have that." "How much is your normal plate armor?" "We got plate armor that fits a troll, human, skinny human, oddly shaped human, guy named Don that came by the other day, pet lizard, about yay big..."
+			- Venith starts browsing the elf plate armor while the man is yelling.
+			- "Anyways, this one has a 50/50 chance of fittin' ya, but I'll need a security deposit." Venith offers up Almond, who promptly falls asleep in the security deposit box.
+				- After trying on two suits of armor, the second one fits fairly well.
+				- "How much does it cost?" inquires Venith. "I would part with it for about 700 gold, but we got a promotion goin' on today. If you can bring me a live acid bat, I'll let it go for only 200."
+		- Azulo goes up to Gronk the half-orc to buy some arrows.
+			- "These are the good arrows, these cost about 2 gold a pop. They're very potent, on account of the barbs. That's why the call me Barb. I'll give you an arrow sleeve with 20 arrows plus this beautiful leather holder for em', hand crafted by my brother Stonk, for about 50 gold."
+			- Azulo counter offers with 40 gold.
+			- "You seem good with a bow. If you can hit the bell on that spire — it's a durable bell — I'll sell it to ya for 40 gold."
+			- Azulo hits the bell square on.
+			- Gronk, AKA Barb, goes "Well, that's a good shot," and sells the arrows and quiver to Azulo for 40 gold.
+		- Venith goes back to Bob's Bargain Armor Outlet, offering 20 silver to set the armor aside for when we can come back with an acid bat.
+		- Sila goes looking for a cloak store, but fails.
+		- While we head down the street, we see a mysterious figure with a very nice hat come out from the shadows. He says, "Mmmy friends, you seem to be state officials. Why don't we go to an inn, as I have a deal for you."
+	- A mysterious man with a hat
+		- The party heads in the direction of the Greasy Gnome Inn, the preference of the mysterious hat man.
+		- "Well, here's the thing. Are we all in agreeance here that the state is evil? Good. I fear am not fooled by your charms, as your goatee has been flickering somewhat. Furthermore, that is not the first time I've seen that medallion. It's very difficult to find mercenaries that aren't pirates. I find it reasonable to put you in a very important role. In exchange for explosives, I want you to take this boat full of explosives and plant explosives around the island of Argana."
+		- Almond says, "Hey man. Where'd you get that hat?"
+		- "There's a stand selling nothing but fancy hats."
+		- Almond says, "You wouldn't know someone with a very similar hat who disappeared 3 weeks ago?"
+		- "There might be. It would not be inconceivable for such a thing to happen."
+			- He knows more than he lets on. However, there's something off about him.
+		- "Hey, buddy, pal," Almond says. "You wouldn't happen to recognize this, would you?" pulling out the bone from the pirate captain's leg.
+		- He takes a few steps back. "Well I uh. I might've been busy a couple of weeks ago. I was quite busy at your mom's house."
+		- "What are you talking about? I murdered him!" says Almond, brandishing a bone.
+		- "I don't recognize it. (It's a bone!) You see, your mom's a troll..." He stands up, edging his way towards the door.
+		- Almond launches towards the man off of Venith's shoulders. Four thugs from the next table over take this as their cue to jump into action.
+		- ENSUE BATTLE
+			- Sila gets hurled at Eris!
+			- "You can't hold someone's headwear against them, that's racist!" - one of the thugs
+			- A man escapes, the rest are dead (including the original hat guy).
+		- Venith runs out, seeing that he is now in a large underground location with completely different shops.
+			- Upon racking his brains:
+				- Blackrock was once a fortress of the state. Long ago, a gnomish sorcerer named Valeric Tharn was executed upon the execution spire, cursing the island with significant amounts of magic. 
+				- We are now in the Underdark. The place we are now in is a city with an ancient and storied history.
+		- People walk by with Drow regalia and signets, not spotting Almond, as he got in Venith's bag.
+- Session 5 - Delving in the Dark
+	- Innkeeper comes out and shoos us out with a bat, saying we've caused enough trouble for him.
+	- Sila gets in Azulo's backpack.
+	- A Drunk Man
+		- There's a drunk man sitting on the curb a little ways down the street. He rattles a cup.
+		- Azulo convinces the man to wager on an arm wrestle, gaining one silver if he wins and losing two if he loses.
+		- Azulo breaks his arm. The drunkard leans in and says, "Your friends aren't coming back," and returns to normal.
+		- Venith walks up to kick the drunkard, who says, "Ay what's the deal? I'll call the guards!"
+		- "Nobody leaves Castle Doom."
+		- "That's where they take all the prisoners, dontcha know. And nobody leaves Castle Doom."
+		- Venith reads a poster, noticing that they're wanted posters. There's posters for Almond and Sila, as well as one with a hastily scribbled sketch of us fighting in the bar.
+		- "The Drow haven't been able to get into Castle Doom for a long time, but everyone knows that's where they take their prisoners."
+		- Sila asks, through Azulo, how the Drow take prisoners to Castle Doom if they can't get in. The drunkard responds, "Castle Doom was once an ancient Drow stronghold. But over the years, creatures moved in. The gnomes chased out the creatures."
+		- The drunkard then lays upon the ground, appearing almost as if he had died. He's definitely alive, however, as he has a pulse. He opens one eye, saying, "You'll never get into Castle Doom anyways," rattling his cup and playing dead again.
+		- After some threatening and more importantly, three gold coins,
+		- "Every since they captured Vierna, they've been guarding this castle. The people won't let you know, they keep secrets. You'll never get in through the main entrance, it's too heavily guarded. But, seeing as it was an old stronghold, there's the old mines and passageways, and there's old tunnels under the city that could lead into Castle Doom. Iron gateways into the ground, nobody's ever found them, just rumors. Much gold in Castle Doom, much to be gained, but no one's ever found a way in."
+		- We hear guards approaching, and barely manage to duck inside an alleyway before they see us.
+	- In the Alleyway
+		- Venith hears, "Hey! Don't those people look like the people we're trying to find. Let's ask this homeless guy."
+		- "Hey buddy! You see where those guys went?"
+		- "Ohhhhhh my mind's kinda fuzzy... I can't remember too well..."
+		- "Don't play games with us."
+		- "I'm not play games, mister, my memory's not what it used to be-"
+		- A loud crunch is heard.
+		- "HEY! They went that way, c'mon, I only got two of those!"
+		- The guards approach. We hide, and a guard says, "Hey, I wonder if they're behind these dumpsters?"
+		- They start poking through the dumpsters.
+		- Azulo manages to pry open a trapdoor in the alleyway, and starts climbing down a ladder into the darkness, gesturing to everybody else to follow.
+	- Deeper, Deeper, Deeper Still
+		- We close up the trapdoor behind us, hearing some thuds, and the words, "They're not in there! Just bags of trash! I told you it was just bags of trash!"
+		- Azulo is practically blind, feeling around in the dark, and exclaims, "I don't know if I should be leading!"
+		- Venith casts a spell, lighting up the area with a dim light from sparkling dots that look almost like fairies.
+		- There's a closed door, pockmarked and scratched. There's also an open door.
+			- The tracks look like a wolverine's, but the claws are too long...
+		- Eris lockpicks the closed door, and we see two gnomes standing at the back of a room off of a hallway, heavily injured and scratched, with one bleeding out. The less injured one says, "I'm Feri the Bright (this is cohen!!! cause kuro's still captured by GnICE!!), and this here's my brother, Feri the Dim."
+			- It is CRUCIAL that you know that Cohen is speaking in a voice identical to that of the landlord from Smiling Friends.
+		- The room used to be a barracks.
+		- Feri the Bright doesn't remember anything from being attacked.
+		- We take a long rest, locking the door.
+		- Waking up, Venith hears scratching from outside. Azulo yells, "It's a wolverine!" He's smiling, happy about how fascinating the situation is.
+		- Venith braces up against the door to keep it shut. They hear it walk away. Venith volunteers to stay awake for the night.
+		- Somehow, Feri the Dim is still alive, despite bleeding out for most of the night. 
+		- Azulo asks Sapphire for information on wolverines. 
+			- Wolverines are the largest member of the weasel family. They resemble a small bear. They're found in the arctic and Underdark. They weigh up to 40 pounds. They're good at climbing and traveling through deep snow and canyons. They eat dear, moose, adventurers, and porcupines. They're solitary animals that roam long distances to food. Despite their fearsomeness, they avoid larger predators.
+			- Last year, she saw a wolverine, and these tracks are significantly larger than the ones she saw.
+		- Dim looks pretty gray...
+		- While Venith and Sapphire argue over who should heal Dim, Bright interjects, "Just heal my brother, damnit!"
+		- Once Dim wakes up, he yells, "Ya blighters!" in an almost New York-ish or Boston accent, though one may have never heard of such fantastical places. Turning to Bright, he says, "I see you've made some new "Friends"..."
+		- "Some people are just worth less than us," Dim spits.
+		- Venith mutters under his breath, "So he's the racist one, huh?" Louder, he says to Dim, "Bold of you to say that to my face."
+		- Dim overhears, retorts, "I'd do it behind your back, but it'd take me half a day to get there!"
+		- We head left down the hallway, seeing a couple skeletons and clawmarks on the wall. Azulo turns his nose down at Almond, who has started gnawing on a skeleton's femur.
+		- In a room, Eris spots a strangely large wolverine, gnawing on some bones.
+		- "Hey what's in the room over there! I can't see, ya head's too big!" yells Dim.
+		- The wolverine peeks its head up, noticing us by our smell. It prepares to lunge at Sapphire, as she's the closest.
+		- Sapphire manages to converse with the wolverine, who asks, "Can I eat those two gnomes over there?" It points its head at the brothers.
+			- She responds, convincing it to accept food instead of consuming the gnomes. 
+			- "Hey buddy! Why don'tcha hit the stupid thing, it took a bite out of my dang arm!" says Dim.
+			- "I'll feed you to it, you keep talking!" Sapphire counters.
+			- Dim keeps yapping, quipping, "Why don't we feed one of these freakishly tall people to it?"
+			- "Enough bickering! My name's Feri the Bright, and I cast goodberry!"
+			- The wolverine is now friends with Sapphire.
+		- Venith and Dim, however, keep bickering. "Get a load of this jabroni over here!" "You are a stain on this dungeon floor." etc., etc.
+		- Down a corridor, near one side of the room, we walk into a hexagonal room. This looks to be a place to store gear, with mining tools, headlamps, and pickaxes. 
+		- Azulo puts a headlamp on his head, on account of not being able to see in the dark like the rest of the party.
+		- Past a door, we see a minecart, tracks, and a whole bunch of spiders on a wall as well as rubble on the ground, forming a wall blocking the tracks. We go through the left door, walking into what appears to be an alchemy workshop, full of steel tables and bubbling flasks. 
+		- Azulo yells, "Look at this, Eris!" tossing a flask of bubbling directly at Eris' head, hitting square on and shattering glass everywhere.
+		- Dim keeps speaking a mile a minute, and Bright tries to calm him down, as Venith is becoming visibly agitated. "You see, his face is all disfigured, so it's like he slammed his face into his door as a kid." The wolverine growls at him.
+		- Through yet another doorway, there are tables, chairs, and stools. In a box, we find two decks of cards and some dice. The cards are normal, it would seem, and Sila breathes a sigh of relief.
+		- There's also a vest, which the group concludes is a fairly nice vest. When someone puts it on, it makes the wearer sound unnecessarily deep.
+		- Down a ladder, we end up in another hexagonal room. We walk down a hallway for the better part of the day, and Azulo's headlamp goes out. Down to the left, we find ourselves in a larger hallway, with rooms lining the left side. Each room has iron bars and an iron door, rusted through, with a skeleton inside.
+		- Pushing on a stone, a wall opens up to a room in the shape of a rhomboid. This room has better furnishing, and a gnome is sleeping in a bed.
+- Session 6 - King Minos' Wet Dream
+	- A gnome is sleeping in a bed. He is resting with a stuffed elf. The party stands across the rhomboidal room from him.
+		- Aside: Castle Doom's logo is a wailing skull, stamped on the floor everywhere to ensure the prisoners are aware of their inability to escape.
+	- Azulo gingerly wakes the gnome. He startles, blowing a whistle on him a couple of times. 
+	- Mystery Gnome!
+		- Azulo and Almond try and fail to strike the gnome.
+		- "Woah, woah, take it easy you guys! How'd you even get in here?" It appears the way we came in was *not* the primary way into the room.
+		- "I mean you no harm. My name is Jerb, I've been waiting on the next shipment of food, and that whistle was just to call the man who brings me food."
+		- "You gnomes have such odd names," Venith comments. "Are you a prisoner?"
+		- "I am an agent of the Gnomish state," he responds. Azulo replies, "Why are you so far underground?"
+		- "To make sure no one escapes from the maze of course! The food man knows this location the best, but even he needs the sound of the whistle to make his way here. I usually blow the whistle about 3 days before running out of food, to make sure he gets here on time. May I have my whistle back, perchance?"
+		- "I don't know, can you have your whistle back?" Azulo quips. Venith dangles the whistle over Jerb's head, prompting Feri the Dim to bite him, though his teeth fail to bite through armor. Almond also bites him, causing Venith to drop the whistle. Almond and Jerb scramble for it, and Jerb comes out victorious. Almond bites Jerb, causing him to exclaim, "Oh my God! What the hell!?" 
+		- In her surprise, Venith let out a bloodthirsty aura, causing most of the party to become scared of her for a minute or so. "I don't know what you're trying to do here, but why dontcha just leave me alone?" Jerb inquires.
+		- "Hey Jerb. You wanna help us? Jerb?" inquires Venith. An argument ensues over him being unable to leave his posts, with threats being thrown and proclamations of how nice Grug the food guy is.
+		- Venith decapitates Jerb and puts his head in his bag.
+	- Into the Labyrinth...
+		- We enter into a fairly large square room. There's a door at the far end, and a man sitting by a campfire, with a hat with a feather in it and a frilly ascot.
+		- "Ahh my friends! You've come to the right place, my name is Mercado, and I can offer you many wares." He has:
+			- A fake gold ring with an obsidian cut depicting a soldier's helmet
+			- A small sack of sugar
+				- 1 GP, to Almond
+			- An oxide belt, suitable to hang a heavy weight from
+			- 3 dwarven loaves, suitable to nourish a man quite well
+			- A tin can of cookware
+			- Painted soldiers, 3 inches high, festooned in finery
+			- 4 matching steel daggers with wire wrapped hilts and gold fittings
+				- 40 GP
+		- He bought his fancy hat off a fellow named Francesco.
+		- We head another direction.
+		- Marching footsteps are heard, and we see 4 skeleton guards. One shouts, "Halt!" 
+		- BATTLE ENSUES
+			- "Traitors! Immigrants! Living!" shouts the last skeleton remaining. 
+		- The last skeleton no longer has legs. In an attempt to intimidate the skeleton, Eris slaps it across the jaw, shattering it and causing bones to go everywhere.
+		- We keep going, and eventually the passage curves to the left, widening into a triangular room. At the far end, the passage continues, but there's a branch to the left, and an unlit lantern with a glass sheath in a nook on the right.
+		- Almond shatters the glass sheath with his enchanted fire slingshot, lighting the lantern.
+		- Gizzard tries to blow the whistle, but it's deduced that some of the 8 slits on the slides must be covered for it to make the sound. It's a whistle ocarina!
+		- Almond tries to copy what Jerb did (1 2 3), but doesn't remember the right side.
+			- 1 - A low rumbling.
+			- 2 - An oscillating warble.
+			- 2 3 - Aztec death whistle. A bloodcurdling scream.
+			- 1 2 - A slightly higher pitched scream.
+			- 2 4 - A slightly lower pitched scream.
+			- 1 3 - Another scream.
+			- 1 2 3 - A gurgling noise.
+			- 2 3 4 - The deep rumbling like Jerb did. (But only if you have the pointer finger bent)
+		- We continue until we find a room with a gnome in a bedroll by a campfire by the corner. There's a sled in the center. "Ahh my friend! You look like someone who is in the market for trinkets!" Dim asks for fentanyl, but he only has some shrooms and some weed.
+			- Container of shrooms - 5GP
+			- Gram of weed - 1GP
+			- 5 gram vial of hallucinogen - 15GP
+			- North Sea Gannet Down Pillow, famed for its comfiness
+			- Pair of gold earrings
+		- Venith haggles for the weed and hallucinogen for 15 GP.
+		- We arrive at a locked stone door. Eris lockpicks the door, and Dim kicks the door while she does, jostling the door just right to open it. Immediately, we are assaulted by spores. Some of us are infected with spores, leaving us with 2-13 hours to live.
+		- Venith and Sila cure everyone of the spore infection using lesser restoration and lay on hands.
+		- We spot a JACKED high elf with a big old crate in his arms whistling. He spots us, and says, "Who that!" Almond says, "[[Characters#^grug|Grug]]?" 
+			- "Me Grug. How you know Grug?" 
+			- "We're companions with [[Characters#^ed458b|Jerb]]," Venith replies. "Grug know Jerb. How Jerb doing these days?"
+			- "He has a headache."
+			- "Whistle sound weird. Like Jerb lost finger."
+			- "We need your help getting to the prisoners," Venith says.
+			- "Where prisoner. Where are prisoner..." Grug mumbles. "Prisoner in cage! In the maze," Grug exclaims. "Cage is in maze. Prisoner, in cage."
+			- "Where. Where is the cage," Venith inquires.
+			- Grug scratches his head for a solid minute. "Jerb know where prisoner are. Nobody know maze. Maze too difficult. Many door. Many hallway. Traveling salesman friendly!"
+			- Azulo convinces Grug that a ghost has taken up residence in Jerb's room, and that Jerb is with the prisoners. Grug needs to deliver food to Jerb.
+			- "Have. you. seen. cages?" says Azulo.
+			- "Hmmmmmmm...."
+			- After hemming and hawing, we decide to convince Grug to lead us the way he came.
+		- We see a man with a cart. "My friends!! My name is David. I've got:" (exclamations over why so many salesmen are in this maze)
+			- Two silver earrings
+			- Two sulfur torches
+			- Iron clasp for a cloak, inlaid with copper in the shape of a boat
+			- 4 bars of the finest olive soap in the finest of rawhide, from the Drow soap mines
+			- Two doses of hallucinogenic dream leaf - 12 silver for one dose, or 5 electrum for both
+			- Azulo haggles to get both doses of dream leaf by insulting the quality of it.
+		- We enter a room with 3 skeleton guards who are playing cards.
+		- BATTLE ENSUES
+			- The guards are disposed of handily.
+			- There's a gilded book.
+			- A creature fell from the ceiling and wraps around Almond's head.
+			- Venith grabs the creature.
+			- Dim swings at the creature, missing and hitting Venith.
+			- Azulo shoots at the creature, hitting it.
+			- Sila actually sprays it point blank with poison, but to little effect.
+			- Eris kills it with a dagger.
+		- We find a pile of dead bones, but it blorps up!
+		- BATTLE ENSUES (once more)
+			- Immune to acid
+		- Victory!
+- Session 7 - Creepies and Crawlies
+	- Fights and Crimes
+		- With a mimic defeated, we come across a crossroads with a door straight ahead of us.
+		- We go forward, and come across a room with a large spider guarding a pile of mysterious artifacts. It clicks menacingly. We close the door to plan.
+		- "Hmmm. Let's just go kill it." We go back in. BATTLE ENSUES
+			- The spider is ready for us, as it heard our loud "discussion", shooting a web at Almond. Almond manages to dodge.
+			- Another spider crawls out of the darkness above, landing on top of Venith. It makes a ear-piercing screech by sliding its mandibles past each other.
+			- A blind merchant taps on Sila's soldier in the middle of the battle.
+		- Upon the second spider's death, acid blood spurts out over Venith and Reika. The merchant also gets caught in the crossfire, exclaiming "Oh no! My soaps! You got acid on my soaps!"
+		- After some conversing, Venith gets irritated and knocks him out with the flat side of his sword.
+		- Venith chops the man's head off. He also takes the guy's spine.
+		- We get attacked by a swarm of bats. Acid bats!
+			- There are 7-11 bats.
+			- Sila knocks three of them out with Sleep and stuffs them in Venith's bag [[Missions#^155a37|for later]]!
+	- A bit of a rest
+		- After defeating the bats, we go back to the spider room. Sila arranges the merchant's bones in an intimidating fashion outside of the room before closing and locking the door.
+		- The artifacts:
+			- Amethyst broach with complex interlaced silver and gold wire
+			- Pan flute
+			- 4 bottles of vintage wine sealed with corks and delicate wires
+			- Camp hatchet with "WOLFGAR" inlaid into the head with darker metal
+			- Iron manacles
+			- A shovel
+		- Almond tries to play the pan flute, to little success. He continues to practice.
+		- The amethyst broach seems to be worth about 250 gp.
+		- We take a long rest. By some miracle, no guards investigate the room we're in, despite, or perhaps because of, the pagan ritual outside the room.
+	- Onwards...
+		- Venith, Azulo, and Almond get struck with arrows from a trap.
+		- We enter a room with two gnome statues holding spears. In two cells, Gizzard, Kuro, and Thea are seen, malnourished and weak. Some skeletal guards see us walk in.
+		- Jake, Robin, Matt, and Bill say "You don't mess with the prison guards. We guard the prison."
+		- We engage them in battle.
+			- "FUCK THE POLICE" - Almond
+			- "FUCK YOU GARGOYLE" - everyone
+		- Under a trapdoor, there is a glowing and swirling purple portal. Almond immediate jumps in.
+		- A thief in a cell starts complaining about cards. "Man those guys sucked, they were always cheatin' at cards. Glad you got rid of them. You mind freeing da rest of us?"
+		- There are:
+			- A thief
+			- A man who was formerly a sheep merchant. Unfortunately he sold his sheep at prices based on who was buying, and a gnome merchant who bought a sheep for 7 times the normal price got real angry.
+			- A man who made rigged dice got jailed for making dice too evenly balanced.
+			- A cobbler who donates his shoes to the homeless.
+		- Sila, Azulo, and Venith push the gargoyle who was affected by mind spike into the portal, allowing Sila to deduce that it landed back in the material plane. We all jump through the portal. Almond is having a discussion with two gnomish guards. The island we're on appears to be in the gnomish lands.
+- Session 8 - Gnomish Reunion
+	- Government Property
+		- A gnome starts arguing that this is private property and they'll call the cops on us.
+		- "I am the cops." - Almond
+		- They threaten to throw us in the ocean if we don't go back through the portal.
+		- Azulo insults them, causing them to attempt to handcuff him.
+		- A gnome puts a spear to Azulo's throat and threatens, "If you guys make any funny moves, this guy's gonna get it! You better control your friend over here, trying to attack Greg!"
+		- Almond states he's from the Monastery of the Squirrels.
+		- Greg yells, "We've been trying to kick them off that island for years!" "Listen buddy, my monastery, while it stands for peace, I stand for doing whatever the fuck I wanna do!" "That doesn't sound like peace and harmony." "Well I'm in...in touch with my. My ability to punch people..."
+		- Azulo manages to punch the gnome holding the spear to his throat and steps back quickly. 
+		- The gnomes stand shoulder to shoulder, firmly threatening once again, brandishing their spears in an effort to get us off the island.
+		- BATTLE ENSUES
+			- Almond leaps off of Venith's shoulders, screaming, "YIPPEE!" He lands on one of the government gnomes, pummeling him, and then running away to hide behind Venith.
+			- Venith stabs one, and Sila casts burning hands to hit two of them.
+			- One gnome stabs Venith in the leg, inflicting a small amount of damage.
+			- A gnome tases Azulo, paralyzing him for several seconds.
+			- "I haven't had a conscience for 23 years!" - Almond
+		- We loot the bodies. Almond gives a piece of gold to Venith before swinging on his immovable rod.
+		- Azulo can tell that we're in the gnome lands, and has a fairly good idea of where we are. We start searching the island, going into a guard shack. Almond starts rifling through the deceased gnomes' lunch boxes. Venith eats exclusively the ham from a sandwich, with Sila catching the rest he discarded; she scarfs it down.
+	- Monastery
+		- We get to the boats, seeing that there is a simple map of the gnome lands. We set sail for the Monastery of the Squirrels.
+		- Upon arriving at the Monastery, Almond checks in on Acorn. He's gone.
+		- Walking up to the gate, we assure them that we are not guards. Acorn is alive! He's in the infirmary. Almond moves at incredible speeds.
+		- We've been gone for a decade! It's 1994 now. (We started in 1984??)
+		- Almond reunites with his protege, [[Characters#^07ac3a|Fred Jr]].
+		- We set sail for Blackrock.
+	- Back to a dead rock...
+		- BATTLE ENSUES 
+			- A huge bird-like creature swoops in and knocks Almond prone!
+			- A horde of acid bats emerges from the darkness.
+			- We identify the creature as an [[Beastiary#^08532f|acid pterodactyl]].
+			- Venith prevents the pterodactyl from carrying Almond away.
+			- Sila casts Chaos Bolt with both hands, crushing one bat, exploding another with a thunderclap, and causing a third to suffer brain death.
+		- We survive the storm.
+		- As the storm clears, we see a pigeon with a scroll tied to its leg. The letter states:
+			- My dearest mercenaries, (lists names), I do hope that this message finds you well. Seeing as you have been gone efor quite some time. I thought it best to send a message to check on your progress. The pirate attacks have been growing increasingly frequent, and we hope you have been making good strides towards finding the leader of the pirates. We will be sending a messenger to check in on your progress. Best regards, your friend, Judge Marsh.
+		- Onwards to Blackrock! We see its imposing spires and its perpetual storm clouds.
+		- We're greeted by deckhand [[Characters#^18d701|Robert]]. After paying him a fee to watch our boat, he starts yapping about the other boats.
+		- We make our way to the market. We pass a flower stall and a dark and shadowy tent, with a shifty eyed merchant whispering to us about daggers. He keeps showing us things from layers of his coat like the sundial merchant from Hercules. 
+		- Upon arriving at [[Characters#^1d913a|Bob]]'s bargain armor outlet, he greets us as if he remembers us, but doesn't actually recognize us until we mention the [[Missions#^155a37|acid bats]].
+			- His cage for the bats is made of asbestos.
+			- Due to capturing 3 acid bats instead of one, Venith is able to pay 125 GP rather than the original sale price of 200. 
+			- Sapphire pays some amount of money for armor for her fox.
+		- 

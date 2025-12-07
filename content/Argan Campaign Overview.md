@@ -1,0 +1,37 @@
+#dnd #argan
+- Campaign Metadata
+	- Allowed Books
+		- Player's Handbook, Xanathar, Monster, Tasha's
+- People
+	- Brian - DM
+	- Liv - Venith (M)
+		- Drow Paladin
+		- 6'4", 27 years old
+	- Kiana - Thea
+		- Half-elf Rogue
+	- Julian - Gizzard the Lizard Wizard
+		- Lizard Wizard
+		- 6'4"
+	- Cohen - Kuro Yuki
+		- Tiefling Monk
+		- 32 years old
+	- Ryan - Sapphire
+		- Druid
+	- Chris - ~~Acorn(M)~~ Almond
+		- Forest Gnome Monk
+		- Punches people, illiterate
+		- 2'0", 23 years old
+		- From the Monastery of the Squirrels.
+	- Evan - Azulo
+		- Elf Ranger
+		- Hates the government
+		- 5'10", 300 years old
+	- Allison - Eris
+		- Tiefling Rogue
+		- 26 years old
+	- Reika - Sila
+		- Rock Gnome Sorcerer
+		- 3'0", 40 years old
+- [[General Argan Event Notes]]
+- [[Characters]]
+- [[Missions]]
