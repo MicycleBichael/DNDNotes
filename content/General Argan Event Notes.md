@@ -281,7 +281,7 @@
 		- "I am an agent of the Gnomish state," he responds. Azulo replies, "Why are you so far underground?"
 		- "To make sure no one escapes from the maze of course! The food man knows this location the best, but even he needs the sound of the whistle to make his way here. I usually blow the whistle about 3 days before running out of food, to make sure he gets here on time. May I have my whistle back, perchance?"
 		- "I don't know, can you have your whistle back?" Azulo quips. Venith dangles the whistle over Jerb's head, prompting Feri the Dim to bite him, though his teeth fail to bite through armor. Almond also bites him, causing Venith to drop the whistle. Almond and Jerb scramble for it, and Jerb comes out victorious. Almond bites Jerb, causing him to exclaim, "Oh my God! What the hell!?" 
-		- In her surprise, Venith let out a bloodthirsty aura, causing most of the party to become scared of her for a minute or so. "I don't know what you're trying to do here, but why dontcha just leave me alone?" Jerb inquires.
+		- In his surprise, Venith let out a bloodthirsty aura, causing most of the party to become scared of him for a minute or so. "I don't know what you're trying to do here, but why dontcha just leave me alone?" Jerb inquires.
 		- "Hey Jerb. You wanna help us? Jerb?" inquires Venith. An argument ensues over him being unable to leave his posts, with threats being thrown and proclamations of how nice Grug the food guy is.
 		- Venith decapitates Jerb and puts his head in his bag.
 	- Into the Labyrinth...

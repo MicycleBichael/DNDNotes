@@ -31,7 +31,7 @@
 		- 26 years old
 	- Reika - Sila
 		- Rock Gnome Sorcerer
-		- 3'0", 40 years old
+		- 3'0", 40 years old, possibly insane
 - [[General Argan Event Notes]]
 - [[Characters]]
 - [[Missions]]
