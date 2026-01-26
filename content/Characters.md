@@ -5,6 +5,9 @@
 		- Punches people, illiterate
 		- 2'0", 23 years old
 		- From the Monastery of the Squirrels.
+	- Bart ^08ead0
+		- Wizened old man.
+		- Hired by Judge Marsh to keep tabs on us.
 	- Bob ^1d913a
 		- Owns Bob's Bargain Armor outlet.
 	- Feri the Bright
@@ -14,7 +17,7 @@
 	- Feri the Dim
 		- Rock gnome
 		- Brothers with Feri the Bright.
-		- New York-ish accent.
+		- New York City-ish accent.
 	- Frank ^d9636d
 		- History
 			- Had dog Rufus, died to pirates
@@ -39,13 +42,19 @@
 		- Formerly stationed in the labyrinth of Castle Doom.
 		- Slept with a stuffed elf.
 		- Decapitated by Venith.
+	- Judge Marsh ^33061a
+		- Hired us.
 	- Robert ^18d701
 		- Human.
-		- Deckhand on Blackrock.
+		- Deckhand on Blackrock, watched our boat.
 	- Verrin Marrow (Deceased) ^39b4f6
 		- Has a fox with green eyes.
 		- Former congressman.
 		- Hired the pirates we killed at the end of Session 2 (Letter in Session 3)
+	- Winston ^winston
+		- Human prisoner.
+		- 5'10", long hair.
+		- Keeper of the prisoners in the House of Shells.
 - Historical Figures
 	- Valeric Tharn
 		- Gnomish Sorcerer

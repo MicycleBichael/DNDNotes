@@ -240,7 +240,7 @@
 		- Venith braces up against the door to keep it shut. They hear it walk away. Venith volunteers to stay awake for the night.
 		- Somehow, Feri the Dim is still alive, despite bleeding out for most of the night. 
 		- Azulo asks Sapphire for information on wolverines. 
-			- Wolverines are the largest member of the weasel family. They resemble a small bear. They're found in the arctic and Underdark. They weigh up to 40 pounds. They're good at climbing and traveling through deep snow and canyons. They eat dear, moose, adventurers, and porcupines. They're solitary animals that roam long distances to food. Despite their fearsomeness, they avoid larger predators.
+			- Wolverines are the largest member of the weasel family. They resemble a small bear. They're found in the arctic and Underdark. They weigh up to 40 pounds. They're good at climbing and traveling through deep snow and canyons. They eat deer, moose, adventurers, and porcupines. They're solitary animals that roam long distances to food. Despite their fearsomeness, they avoid larger predators.
 			- Last year, she saw a wolverine, and these tracks are significantly larger than the ones she saw.
 		- Dim looks pretty gray...
 		- While Venith and Sapphire argue over who should heal Dim, Bright interjects, "Just heal my brother, damnit!"
@@ -248,7 +248,7 @@
 		- "Some people are just worth less than us," Dim spits.
 		- Venith mutters under his breath, "So he's the racist one, huh?" Louder, he says to Dim, "Bold of you to say that to my face."
 		- Dim overhears, retorts, "I'd do it behind your back, but it'd take me half a day to get there!"
-		- We head left down the hallway, seeing a couple skeletons and clawmarks on the wall. Azulo turns his nose down at Almond, who has started gnawing on a skeleton's femur.
+		- We head left down the hallway, seeing a couple skeletons and claw marks on the wall. Azulo turns his nose down at Almond, who has started gnawing on a skeleton's femur.
 		- In a room, Eris spots a strangely large wolverine, gnawing on some bones.
 		- "Hey what's in the room over there! I can't see, ya head's too big!" yells Dim.
 		- The wolverine peeks its head up, noticing us by our smell. It prepares to lunge at Sapphire, as she's the closest.
@@ -440,5 +440,52 @@
 		- Upon arriving at [[Characters#^1d913a|Bob]]'s bargain armor outlet, he greets us as if he remembers us, but doesn't actually recognize us until we mention the [[Missions#^155a37|acid bats]].
 			- His cage for the bats is made of asbestos.
 			- Due to capturing 3 acid bats instead of one, Venith is able to pay 125 GP rather than the original sale price of 200. 
-			- Sapphire pays some amount of money for armor for her fox.
-		- 
+			- Sapphire pays 50 GP for armor for her fox.
+- Session 9 - Red Lobster Surprise
+	- A mysterious character comes up behind us and taps Thea on the shoulder. "Would you folks happen to be the folks hired in Argan?" The wizened old man pulls out a list. "I have stayed here for 10 years. It's not a very nice place, you know. My name is [[Characters#^08ead0|Bart]], I have been hired by [[Characters#^33061a|Judge Marsh]] to remind you that you have 11 and 1/2 years to complete the contract before you are executed. Well anyways, perhaps we'll meet again within a few months, mmm." He wanders off, stroking his beard. 
+	- We head over to Pirates-R-Us to purchase some clothing to disguise ourselves.
+	- A salespirate comes over to sell us on some hats. Since Almond doesn't like fancy hats, he extolls how drab, yet well made, yet still drab, his hats are.
+	- In another shop, a salespirate tries to swindle Azulo out of 250 GP for a crossbow with a scope. He messages Venith, and he comes over to assist.
+		- After much arguing, Venith manages to get a crossbow for 67 🤬🤬🤬🤬🤬🤬🤬🤬 GP.
+	- We talk again to Bart. The party grows suspicious of him and accuses him of being a pirate. Everyone says his name as if it were a slur, with Almond especially drilling into him. He leaves in a huff.
+	- Eris writes a message in a bottle to reach Judge Marsh, complaining about Bart and his racism.
+	- We follow a shadowy figure into a seedy alleyway and we come across a room. There are a few chairs and a table, and light filters in from above. 
+		- "I see you're looking for information. But information isn't free..." Azulo and Eris immediately resort to martial threats, while Almond tells him of his fortune of 4 pennies. He then threatens him with his flame slingshot.
+		- "I believe I can take these... 4 pennies. It is like this. You see, we're on the island of Deadrock, where a black dragon (of the acid variety) wants to control trade. The pirates have their ideas, but if you travel South, past the Isle of Ember, past Argana, past the Elven Kingdoms, you will eventually find the Pirate Cove. The elves are strange, you can only get skinny jeans in their lands. The Cove is where you'll find the pirate captain, who is easy to find, as he has the fanciest hat of all the pirates. To make it there is a very perilous journey, as you must past through the Sea of Souls."
+		- "He is also missing an ear, has black and raggedy hair, and wears an eyepatch."
+		- The party asks him, "What is your name?"
+		- "It's uuhhh. Hmmm.... Mr. C. My friends call me Clark."
+		- We leave.
+	- [[Characters#^18d701|Robert]] has kept our ship in ship shape. He compliments us on our boat. We set sail.
+		- Robert left a small tray with mints on it.
+		- A swirling storm cloud approaches the boat. We hear a horrible crack, and the mast bends terribly. It appears the gnomish authorities might've skimped a little on this vessel. These boats were part of the Atlantis 3 models, notorious for their masts breaking off. Water starts slowly pouring in the sides. We start hearing bats in the storm.
+		- Sila freezes the hole left by the mast, while the rest of the crew starts bailing out water. All of a sudden, a huge wave hits the boat, sending most of the party overboard, save for Azulo, Almond, and Kiana. Almond locks himself in place with the immovable rod. Sila being flung caused the mast to unfreeze, but she's able to jet herself and Venith up to the top and encase them in an ice sphere.
+		- We all make it into the cabin, save for Chris, who is still on the bar. A lobster person from a group of 15 taps on the glass, holding up a slate with "YOO AR OWR PRIZONR" written on it. Further writing follows, explaining that we can work for them in order to receive potions to breathe water. Azulo casts two-way message. Venith drills them on how long we would be held prisoner for. They remain vague about how long the work takes, just that would be let go after doing "a good job", until finally relenting that this is around 1-6 months depending on how good of a job we do.
+		- We are offered potions of water breathing that last 30 minutes, long enough to reach their barracks. A conical seashell shaped building emerges from the ocean fog. The building has air we can breathe. There is a doorman named [[Characters#^winston|Winston]], a human, who states, "Welcome to the House of the Shell!" Venith immediately inquires as to the length of his incarceration, upon which he responds, "They'll let me go after a good job. I thought I was a goner when my ship sunk!" 
+		- We enter into our rooms, which has nice soaps and running water, which while not totally free of salt, is considerably less salty than the outside ocean water.
+- Session 10 - To Catch a Crustacean
+	- We go to sleep. We wake up to a phone ringing. Sila picks it up. "Good morning, it is approximately 4:30 am. This is the wake up call you requested. Breakfast will be served in approximately 1 hour."
+	- We make our way downstairs, seeing a selection of pastries and breakfast items. Almond asks for a plate of waffles burnt to ash covered in syrup. We are served by [[Characters#^winston|Winston]], who is using mirrors to simultaneously perform his duties as doorman.
+	- Winston stands off to the side as we eat, but Almond climbs on his shoulder. "Mmmmmwould you mind climbing down off my shoulder, little fellow?"
+		- "Why?"
+		- "MmmmmI would prefer you not be on my shoulder. I do hope the guards take you away soon."
+		- Venith slaps Winston.
+	- Lobster people come and say, "You come with us." Venith tries to pretend he doesn't know common and says something in Elvish. In response, they begin poking us from behind with spears. "Get in car."
+	- We see a back of a wagon with an air-filled prison in the back. Almond starts screaming French obscenities. One of the lobster people somehow conveys a middle finger despite having claws. The wagon is hooked up to an acid lobster.
+	- We are entered in what seems to be an arena. A lobster person is standing on a dais in the center. "Welcome my friends and lobsters. Welcome to the 376th annual human games! Before us we have 9 fishoids, that is to say humans, here from the overworld. They were in a ship carrying large amounts of weapons coming to destroy us!!" The crowd boos. "You will not fight at this time-" Almond interrupts. "I want to fight!" "You are to be tasked with the most important task. Unfortunately the lobster meant to face you, the Gray Terror, escaped. You are tasked with bringing back the Gray Terror alive, upon which you will fight it to the death. The official council has decreed that this will be your fate. If you bring it back dead, we're gonna come back somethin' even worse. Cuz we know you humans are simple-minded creatures." He looks around and the crowd nods knowingly. "We'll give you a checklist." The crowd roars, "CHECKLIST! CHECKLIST!" The announcer continues, "Step one. You will need a water breathing potion. Step two. You will bring back the Gray Terror alive and FIGHT IT TO THE DEATH!" The crowd goes wild. The lobster person on the dais clicks his claw and his dais raises back up. 
+	- We are given a potion. "This potion will-" Almond downs it. "-give you the ability to breath water for four hours." We are also given a map, after which we leave.
+	- After quite a while of journeying, we come across a small sign with 〉〉︿ ﹀︽ ︾〈 〉〉》﹀︽》 written on it, with "Welcome to the town of Erb" written below it in common. Arriving in a town, we talk to a lobster guard. Venith tries to convince the guard to leave. "Do your kids ever see you?" says Venith. "I try not to see them," he responds. "Go get a divorce," says Venith. "Mind your own business," he responds. They have discourse over the size of his tail and claws. "Listen here you *vertebrates*. Carry on." He starts meandering in the direction he came from. We talk to a shoemaker. Venith seems to think he has a fetish.
+	- We head north to the oyster farms and find some underwater cave goblins. "We are the homeless cave goblins. Sneckle stole all our homes. He stole our hovel! Our bungalow!"
+	- We venture into the cave. There's a fork. We go right and keep going. There's another cluster of intersections. There's a miasma of shell fragments that sting us as we swim through. We fight the lobster.
+		- After Almond lands a hit, the acid lobster says, "Hang on, perhaps we can have a more civilized conversation. My name is Al."
+		- "Aren't you from the lobster arena?" "I don't know anything about a lobster arena!" He seems to be telling the truth. Apparently he didn't even steal the home from the goblins, as they were squatting.
+		- He also stole pastries from the shop.
+	- We convince Al to come with us, with the plan being that we will pretend to kill him. Almond is put to sleep by Sila, as he was trying to keep attacking Al.
+	- As we return to Lobsterville, the colosseum looms before us. The offical looking lobster returns. "Well well well. You've captured the gray terror."
+	- A bit later... "Welcome to the 376th acid games!!!"
+	- Al says, "They offered me money and a nice place if I win..."
+	- Venith responds, "Al, please."
+	- Battle ensues!
+	- We succeed at putting Al to sleep, but they have "prepared for a situation in which \[our\] skills were too good." The announcer says, "Put your claws together, for the one, the only, MORAY EEL!!!" The crowd goes wild as a gargantuan acidic moray eel slithers out of a dark entrance to the arena. Eel battle!
+	- After an arduous battle, Venith decapitates the eel. We have proved our worth in the ring! "Let's give them a good round of applause to get them ready for next week!"
+	- We're escorted to a nicer living quarters. [[Characters#^winston|Winston]] appears to be the doorman here as well, offering to send a custom order to the chef for us, as dinner is in two hours.

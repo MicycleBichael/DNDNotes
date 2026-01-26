@@ -1,6 +1,7 @@
 #argan #dnd
 - Any stats are estimated from experience.
 - Acid Bats ^24291c
+	- Size: Tiny
 	- Locations
 		- Blackrock Storm
 		- Underdark
@@ -10,7 +11,7 @@
 	- Solo: 3 $\leq$ AC $\leq$ ?
 	- In groups: 4 $<$ AC $\leq$ 14
 - Acid Pterodactyl ^08532f
-	- Size - Large
+	- Size: Large
 	- Locations
 		- Blackrock Storm
 	- Immune to acid
@@ -19,3 +20,10 @@
 		- Bite - 12 damage
 	- HP $\leq$ 25
 	- 12 $<$ AC $\leq$ ?
+- Wolverine
+	- Locations
+		- Arctic
+		- Underdark
+	- Weight: $\leq$ 40 lbs
+	- Diet: Deer, moose, adventurers, and porcupines
+	- Behavior: Solitary

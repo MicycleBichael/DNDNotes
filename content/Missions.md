@@ -1,5 +1,6 @@
 #dnd #argan
 - Current
+	- Take care of pirates. (1 year and change remain...)
 - Past
 	- Obtain a live [[Beastiary#^24291c|acid bat]] (or two!) ^155a37
 		- Trade for armor at [[General Argan Event Notes#^bobbargainarmor|Bob's Bargain Armor Outlet]]!
